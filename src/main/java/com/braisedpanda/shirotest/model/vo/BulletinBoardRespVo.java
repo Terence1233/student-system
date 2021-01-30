@@ -11,5 +11,17 @@ import lombok.Data;
 @Data
 public class BulletinBoardRespVo {
 
+    private Integer id;
 
+    private Integer createUserId;
+
+    private String article_content;
+
+    private String title;
+
+    private Integer userVisitCount;
+
+    private Integer isRecommend;
+
+    private String createTime;
 }

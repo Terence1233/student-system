@@ -15,11 +15,6 @@
         margin-left: 200px;
         float: left;
     }
-    body{
-        background-image: url("images/background/page_bg.JPG");
-        background-size: 100%;
-
-    }
 
     #top-nav{
         margin-left: 200px;
@@ -66,27 +61,28 @@
 </style>
 
 <body>
-<ul class="layui-nav layui-bg-cyan" id="top-nav">
+<ul class="layui-nav layui-bg-green" id="top-nav">
     <li class="layui-nav-item">
         <a th:href="@{/index}">首页</a>
     </li>
     <li class="layui-nav-item">
         <dd class="main_left"><a data-src="/userinfo">个人中心<span class="layui-badge-dot"></span></a></dd>
     </li>
-    <li class="layui-nav-item">
-        <a th:href="@{/index}"><img src="/images/2019-08-07/f8aa0870-e4ea-4170-9772-296204476267.jpg" class="layui-nav-img" th:text="'你好，'+${session.user.username}"></a>
+    <div class="layui-layout-right">
+        <li class="layui-nav-item ">
+            <span th:href="@{/index}" th:text="'你好，'+${session.user.username}"/>
+        </li>
+        <li class="layui-nav-item">
+            <a href="quite" style="color: white">退出登录</a>
 
-    </li>
-    <li class="layui-nav-item">
-        <a href="quite">退出登录</a>
-
-    </li>
+        </li>
+    </div>
 </ul>
 
 
 <div class="left" th:fragment="leftbar">
-    <ul class="layui-nav layui-nav-tree  layui-nav-side" lay-filter="test" id="left">
-        <li class="title"><a th:href="@{/index}" style="font-size:18px;font-family: 'Century Gothic';color: #bce8f1">Designed by Layui</a></li>
+    <ul class="layui-nav layui-nav-tree  layui-nav-side layui-bg-green" lay-filter="test" id="left">
+        <li class="title"><a th:href="@{/index}" style="font-size:20px;font-family: 'Century Gothic';color: white;">Designed by Z❤D</b></a></li>
         <li class="layui-nav-item layui-nav-itemed">
             <a href="javascript:;">基本信息</a>
             <dl class="layui-nav-child" >
@@ -154,8 +150,6 @@
 
             </dl>
         </li>
-
-        <li class="layui-nav-item"><a href="">大数据</a></li>
     </ul>
 
 </div>
@@ -180,8 +174,8 @@
 
         </ul>
         <br> <br>
-        <p>版权所有 Copyright &copy; 2018 皖ICP@braised_panda</p>
-        <p>技术支持： braisedPanda</p>
+        <p>版权所有 Designed by Z❤D</p>
+        <p>技术支持： zbq</p>
         <br>
     </div>
 

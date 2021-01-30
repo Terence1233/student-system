@@ -6,8 +6,6 @@ spring:
     password: 123456
     url: jdbc:mysql://106.13.81.182:3306/studentsystem
     driver-class-name: com.mysql.jdbc.Driver
-
-
 #   数据源其他配置
     initialSize: 5
     minIdle: 5
@@ -25,7 +23,10 @@ spring:
     maxPoolPreparedStatementPerConnectionSize: 20
     useGlobalDataSourceStat: true
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
-
+  #热部署
+  devtools:
+    restart:
+      enable: true
 
 
 
@@ -42,4 +43,6 @@ pagehelper:
   reasonable: true
   supportMethodsArguments: true
   params: count=countSql
+
+
 
