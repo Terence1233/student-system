@@ -14,19 +14,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11aaeff3-9584-4b5a-9a4b-599645f753e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/service/CommonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/service/impl/CommonServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/StudentSystem2.5-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StudentSystem2.5-master.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/controller/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/controller/CommonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/model/vo/BulletinBoardRespVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/model/vo/BulletinBoardRespVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/page/user/adduser.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/page/user/adduser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/page/user/edituser.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/page/user/edituser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/class/allclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/class/allclass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/class/classGradesDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/class/classGradesDetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/class/classgrades.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/class/classgrades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/class/editClass.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/class/editClass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/left2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/left2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/controller/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/controller/CommonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/model/vo/BulletinBoardRespVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/model/vo/BulletinBoardRespVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/nopermission.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/nopermission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/permission/addpermission.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/permission/addpermission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/permission/allrole.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/permission/allrole.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/permission/allrolePermission.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/permission/allrolePermission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/permission/editRolePermission.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/permission/editRolePermission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/permission/role.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/permission/role.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/student/editstudent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/student/editstudent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/student/studentgrades.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/student/studentgrades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/msg.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/msg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/userlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/userlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/userlist2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/userlist2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/left2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/left2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/nopermission.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/nopermission.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,8 +176,23 @@
       <workItem from="1611644900162" duration="132000" />
       <workItem from="1611645066519" duration="64000" />
       <workItem from="1611796450161" duration="110000" />
-      <workItem from="1611983608971" duration="5839000" />
+      <workItem from="1611983608971" duration="10494000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 界面样式修改">
+      <created>1611991815155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611991815155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 界面样式修改">
+      <created>1611991824557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611991824557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +210,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 界面样式修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 界面样式修改" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1186" height="790" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611989537544">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -194,61 +228,65 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611796555453" />
-    <state width="1876" height="317" key="GridCell.Tab.0.bottom" timestamp="1611989619896">
+    <state width="1876" height="125" key="GridCell.Tab.0.bottom" timestamp="1611995243768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619896" />
+    <state width="1876" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243768" />
     <state width="1876" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.0.center" timestamp="1611989619896">
+    <state width="1876" height="125" key="GridCell.Tab.0.center" timestamp="1611995243768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619896" />
+    <state width="1876" height="125" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243768" />
     <state width="1876" height="312" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.0.left" timestamp="1611989619896">
+    <state width="1876" height="125" key="GridCell.Tab.0.left" timestamp="1611995243768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619896" />
+    <state width="1876" height="125" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243768" />
     <state width="1876" height="312" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.0.right" timestamp="1611989619896">
+    <state width="1876" height="125" key="GridCell.Tab.0.right" timestamp="1611995243768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619896" />
+    <state width="1876" height="125" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243768" />
     <state width="1876" height="312" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.1.bottom" timestamp="1611989619897">
+    <state width="1876" height="125" key="GridCell.Tab.1.bottom" timestamp="1611995243769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619897" />
+    <state width="1876" height="125" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243769" />
     <state width="1876" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.1.center" timestamp="1611989619897">
+    <state width="1876" height="125" key="GridCell.Tab.1.center" timestamp="1611995243769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619897" />
+    <state width="1876" height="125" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243769" />
     <state width="1876" height="312" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.1.left" timestamp="1611989619897">
+    <state width="1876" height="125" key="GridCell.Tab.1.left" timestamp="1611995243768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619897" />
+    <state width="1876" height="125" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243768" />
     <state width="1876" height="312" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
-    <state width="1876" height="317" key="GridCell.Tab.1.right" timestamp="1611989619897">
+    <state width="1876" height="125" key="GridCell.Tab.1.right" timestamp="1611995243769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="317" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989619897" />
+    <state width="1876" height="125" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995243769" />
     <state width="1876" height="312" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611641585296" />
     <state x="2039" y="134" key="SettingsEditor" timestamp="1611645046892">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2039" y="134" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611645046892" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611991828220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611991828220" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611987370012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611987370012" />
-    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1611989652670">
+    <state x="662" y="252" width="678" height="688" key="find.popup" timestamp="1611995107161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611989652670" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611990800819">
+    <state x="662" y="252" width="678" height="688" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995107161" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611995360080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611990800819" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611995360080" />
   </component>
 </project>

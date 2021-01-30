@@ -98,12 +98,6 @@
                     <dd class="main_left"><a data-src="/userlist2" target="_top">用户列表</a></dd>
 
                 </shiro:hasPermission>
-
-
-                <dd class="main_left"><a data-src="/userlist/1" target="_top">无授权测试</a></dd>
-
-
-
             </dl>
         </li>
         <li class="layui-nav-item">
@@ -161,7 +155,7 @@
 
     </iframe>
 </div>
-<div class="layui-footer">
+<div class="layui-footer" translate="yes">
     <!-- 底部固定区域 -->
     <div class="bottom_left">
         <ul class="ul1"  >
@@ -198,9 +192,9 @@
         });
 
         var frame = $("#aa");
-//        var top = $("#top-nav");
-//        var topheight = top.height();
-//        console.log("top高度："+topheight);
+       var top = $("#top-nav");
+       var topheight = top.height();
+       console.log("top高度："+topheight);
         var frameheight = $(window).height();
         console.log(frameheight);
         frame.css("height",frameheight);
