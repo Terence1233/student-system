@@ -260,6 +260,11 @@ public class UserController {
         return "menu/notice";
     }
 
+    //首页
+    @RequestMapping("body")
+    public String body() {
+        return "menu/body";
+    }
 
     //跳转到登录界面
     @RequestMapping("login")

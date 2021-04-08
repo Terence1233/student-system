@@ -15,16 +15,15 @@
   <component name="ChangeListManager">
     <list default="true" id="11aaeff3-9584-4b5a-9a4b-599645f753e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/controller/ClassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/controller/ClassController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/braisedpanda/shirotest/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/body.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/notice.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/notice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/menu/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/menu/top.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/controller/ClassController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/controller/ClassController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/braisedpanda/shirotest/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/body.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/notice.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/notice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/menu/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/menu/top.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +187,7 @@
       <workItem from="1611983608971" duration="10683000" />
       <workItem from="1612167766102" duration="239000" />
       <workItem from="1617772359040" duration="4945000" />
-      <workItem from="1617848783810" duration="7316000" />
+      <workItem from="1617848783810" duration="13060000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 界面样式修改">
       <created>1611991815155</created>
@@ -218,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617850767381</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: 增加公告栏">
+      <created>1617862541669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617862541669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +245,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 界面样式修改" />
     <MESSAGE value="feat: 項目啟動" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 項目啟動" />
+    <MESSAGE value="feat: 增加公告栏" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 增加公告栏" />
   </component>
 </project>
