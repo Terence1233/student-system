@@ -65,8 +65,13 @@ public class ClassController {
         return "class/allclass";
     }
 
+    @RequestMapping("notice")
+    public String toNotice() {
+        return "menu/notice";
+    }
 
-    //根据classid值删除class
+
+    //根据classid值删除classl
     @ResponseBody
     @RequestMapping("class/delete/{classId}")
 

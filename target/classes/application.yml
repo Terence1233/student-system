@@ -4,8 +4,8 @@ spring:
   datasource:
     username: root
     password: 123456
-    url: jdbc:mysql://106.13.81.182:3306/studentsystem
-    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/studentsystem?serverTimezone=Asia/Shanghai
+    driver-class-name: com.mysql.cj.jdbc.Driver
 #   数据源其他配置
     initialSize: 5
     minIdle: 5

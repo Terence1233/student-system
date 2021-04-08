@@ -7,6 +7,26 @@
       <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="nexus-155-public" />
+      <option name="name" value="nexus-155-public" />
+      <option name="url" value="http://192.168.3.155:8081/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots" />
+      <option name="name" value="nexus-snapshots" />
+      <option name="url" value="http://192.168.3.167:8081/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-thirdparty" />
+      <option name="name" value="nexus-thirdparty" />
+      <option name="url" value="http://192.168.3.167:8081/repository/maven-thirdparty/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -17,9 +37,19 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="nexus-releases" />
+      <option name="name" value="nexus-releases" />
+      <option name="url" value="http://192.168.3.167:8081/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="nexus" />
       <option name="name" value="Nexus Repository" />
       <option name="url" value="http://gitlab.53site.com:8081/repository/server-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-public" />
+      <option name="name" value="nexus-public" />
+      <option name="url" value="http://192.168.3.167:8081/repository/maven-public/" />
     </remote-repository>
   </component>
 </project>
