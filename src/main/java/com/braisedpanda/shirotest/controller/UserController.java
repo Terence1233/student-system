@@ -45,6 +45,8 @@ public class UserController {
     }
 
 
+
+
     //用户注册
     @RequestMapping("/regist")
     public String regist2(User user,Model model,String activeCode){
@@ -230,11 +232,15 @@ public class UserController {
     }
 
 
+
+
     //跳转到注册界面
     @RequestMapping("toregist")
     public String toregist(){
         return "user/regist";
     }
+
+
 
     //跳转到登录界面
     @RequestMapping("tologin")
@@ -246,6 +252,12 @@ public class UserController {
     @RequestMapping("index")
     public String index(){
         return "menu/main";
+    }
+
+    //公告栏
+    @RequestMapping("notice")
+    public String notice(){
+        return "menu/notice";
     }
 
 

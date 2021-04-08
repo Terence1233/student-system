@@ -68,6 +68,10 @@
     <li class="layui-nav-item">
         <dd class="main_left"><a data-src="/userinfo">个人中心<span class="layui-badge-dot"></span></a></dd>
     </li>
+    <li class="layui-nav-item">
+        <dd class="main_left"><a data-src="/notice">公告栏<span class="layui-badge-dot"></span></a></dd>
+    </li>
+
     <div class="layui-layout-right">
         <li class="layui-nav-item ">
             <span th:href="@{/index}" th:text="'你好，'+${session.user.username}"/>
@@ -158,16 +162,7 @@
 <div class="layui-footer" translate="yes" >
     <!-- 底部固定区域 -->
     <div class="bottom_left" style="position: fixed;bottom: 0;">
-        <ul class="ul1"  >
-            <li><a href="javascript:;">首页&nbsp;&nbsp;|&nbsp;</a></li>
-            <li><a href="javascript:;">站点情况&nbsp;&nbsp;|&nbsp;</a></li>
-            <li> <a href="javascript:;">学生列表&nbsp;&nbsp;|&nbsp;</a></li>
-            <li> <a href="javascript:;">用户列表&nbsp;&nbsp;|&nbsp;</a></li>
-            <li><a href="javascript:;">班级列表&nbsp;&nbsp;|&nbsp;</a></li>
-            <li><a href="javascript:;">大数据分析</a></li>
 
-        </ul>
-        <br> <br>
         <p>版权所有 Designed by Z❤D</p>
         <p>技术支持： zbq</p>
         <br>
